@@ -6,6 +6,12 @@
   Hello! I'm <a href="" target="_blank">Байдоолот</a> 👋  
 </h1>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kadyroverjan&theme=onedark" alt="Trophies">
+  </a>
+</p>
+
 <h3 align="center" style="color:#3b82f6;">Front-End Developer | React | Sass/Scss | Tailwind</h3>
 
 
