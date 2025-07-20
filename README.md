@@ -25,16 +25,16 @@
 
 <div align="center">
   <a href="https://github.com/Baidoolot08" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=almazbekovich55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Baidoolot08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
   <a href="https://github.com/Baidoolot08" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almazbekovich55&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baidoolot08&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
 </div>
 
 <p align="center" style="margin-top: 15px;">
   <a href="https://github.com/Baidoolot08" target="_blank" rel="noopener noreferrer">
-    <img title="GitHub Streak" alt="Baidoolot08's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almazbekovich55&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
+    <img title="GitHub Streak" alt="Baidoolot08's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Baidoolot08&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
   </a>
 </p>
 
