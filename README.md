@@ -33,8 +33,8 @@
 </div>
 
 <p align="center" style="margin-top: 15px;">
-  <a href="https://github.com/almazbekovich55" target="_blank" rel="noopener noreferrer">
-    <img title="GitHub Streak" alt="almazbekovich55's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almazbekovich55&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
+  <a href="https://github.com/Baidoolot08" target="_blank" rel="noopener noreferrer">
+    <img title="GitHub Streak" alt="Baidoolot08's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=almazbekovich55&theme=tokyonight&hide_border=true&stroke=61dafb&background=0d1117"/>
   </a>
 </p>
 
